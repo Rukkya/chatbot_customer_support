@@ -89,7 +89,3 @@ The chatbot uses a pre-trained XLM-RoBERTa model fine-tuned on the MultiWOZ data
    ```
 
 This process may take several hours depending on your hardware. The fine-tuned model will be saved in the `models/` directory.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
